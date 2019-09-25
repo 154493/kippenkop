@@ -17,3 +17,6 @@ ul {
  p {
      font-size: 20px;
  }
+ img {
+     border: 8px solid black;
+ }
